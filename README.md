@@ -1,7 +1,6 @@
-# Academy Website - Read Me
+# Academy Website
 
-![Academy Website](link_to_image)
-
+<img src ="https://res.cloudinary.com/dngfmzv2g/image/upload/v1690222837/Screenshot_2023-07-24_234836_u0lwon.png"/>
 ## Introduction
 
 Welcome to our Academy Website! This project showcases a modern and engaging user interface (UI) for an educational website. With HTML, CSS, and Bootstrap, our website aims to provide a seamless experience for visitors, offering four key sections - Home, Courses, About Us, and Contact. This Read Me document will guide you through the project setup and how to explore the different sections of the Academy Website.
@@ -13,7 +12,7 @@ Follow these simple steps to explore the Academy Website:
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/your_username/Academy-Website.git
+   git clone https://github.com/Mdkaif-123/Academy-Website.git
    ```
 
 2. **Explore the UI**: Navigate to the project directory and open the `index.html` file in your web browser to experience the Academy Website's intuitive user interface.
